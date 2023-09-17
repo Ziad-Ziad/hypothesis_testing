@@ -8,6 +8,8 @@ The module supports a wide range of 1 and 2-sample statistical tests (A/B tests)
 - F-test
 - Chi-squared Contingency Test
 
+<img width="1186" alt="Screen Shot 2023-09-17 at 8 35 13 PM" src="https://github.com/Ziad-Ziad/hypothesis_testing/assets/55656747/b926b9ee-5ab0-4bbd-90f8-2d42a16afa69">
+
 ## Usage
 
 To use this script, follow these steps:
@@ -55,3 +57,5 @@ Here's an example of how to run the script for a Z-test:
 ```shell
 python main.py z_test --alpha=0.01 --alter='right'
 ```
+
+
